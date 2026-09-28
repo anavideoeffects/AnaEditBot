@@ -1,3 +1,7 @@
+![Discord Bot](https://shields.io)
+![Python Version](https://shields.io)
+![FFmpeg](https://shields.io)
+
 # Discord Bot that edits videos and photos. (wip)
 
 Requirements:
